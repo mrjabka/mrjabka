@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sergei and I'm a Kurchatov's school student, from Moscow, Russia.</p>
+<p align="left">My name is divdot and I'm a MIPT school student, from Moscow, Russia.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C#.<br>🧪 I do experimental molecular biology.</p>
+<p align="left">📚 I'm currently learning Golang.<br>🧪 I do experimental molecular biology.</p>
 
 ###
 
