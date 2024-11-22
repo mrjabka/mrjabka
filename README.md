@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C#.<br>🧪 I do experimental molecular biology and bioinformatics.<br>💻 Currently I'm doing an internship at ITMO University</p>
+<p align="left">📚 I'm currently learning C#.<br>🧪 I do experimental molecular biology and polymer physics.<br>💻 Currently I'm doing an internship at ITMO University</p>
 
 ###
 
