@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is divdot and I'm a MIPT school student, from Moscow, Russia.</p>
+<p align="left">My name is divdot and I'm a MIPT & NRCKI school student, from Moscow, Russia.</p>
 
 ###
 
