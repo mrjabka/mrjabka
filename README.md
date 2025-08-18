@@ -10,13 +10,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/275111928035630928/CBF69A9014F3E1BC23CF7F9E0F67506DC88106BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-</div>
-
-###
-
-<p align="left">📚 I'm currently learning C.<br>🧪 I do experimental cell biology and polymer physics.<br>💻 Currently I'm doing an internship at ITMO University</p>
+<p align="left">📚 I'm currently learning C.<br>🧪 I do computational biophysics, cell biology and polymer physics.<br>💻 Currently I'm doing an internship at Institute of Chemical Biology and Fundamental Biotechnology, Siberian Branch of the Russian Academy of Sciences.</p>
 
 ###
 
