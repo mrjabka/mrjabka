@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C.<br>🧪 I do computational biophysics, cell biology and polymer physics.<br>💻 Currently I'm doing an internship at Institute of Chemical Biology and Fundamental Biotechnology, Siberian Branch of the Russian Academy of Sciences.</p>
+<p align="left">📚 I'm currently learning C.<br>🧪 I do computational biophysics (at ITMO University) and cell biology.<br>💻 Currently I'm doing an internship at Institute of Chemical Biology and Fundamental Biotechnology, Siberian Branch of the Russian Academy of Sciences.</p>
 
 ###
 
